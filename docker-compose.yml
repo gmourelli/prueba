@@ -1,0 +1,4 @@
+import os
+
+os.system("python test.py")
+os.system("python test1.py")
